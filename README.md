@@ -1,12 +1,13 @@
+Unless otherwise specified, this is all Nim code.
+
 Some driving libraries & tools:
 -------------------------------
- - [cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate
+ - [cligen](https://github.com/c-blake/cligen) - library to infer/generate
  command-line-interfaces / option / argument parsing; Also has some IO/system
  interface utility modules to have no dependencies
  - [nio](https://github.com/c-blake/nio) - Low Overhead Numerical/Native IO lib
  & tools organized around the idea of compact file extensions as schemas
  - [adix](https://github.com/c-blake/adix) - A Data structures for Indexing Lib
- for Nim
  - [bu](https://github.com/c-blake/bu) - Over 50 (mostly cligen) CLI utilities
  covering Space Management, File Typology & Times, Benchmarking, Pipeline/Data
  Formatting/Calculation, Sys Admin, Tty Handling, Nim package release, Shell
@@ -15,9 +16,9 @@ Some driving libraries & tools:
 Adding some color to your life:
 -------------------------------
  - [lc](https://github.com/c-blake/lc) - A post-modern, "multi-dimensional",
- colorful, configurable, abbreviating, extensible ls/file lister in Nim
+ colorful, configurable, abbreviating, extensible ls/file lister
  - [procs](https://github.com/c-blake/procs) - Colorful-like `lc`-Unix process &
- system query & formatting library & multi-command CLI in Nim
+ system query & formatting library & multi-command CLI
  - [hldiff](https://github.com/c-blake/hldiff) - A port of Python difflib to
  compute diffs and (re)highlight diff output intraline
 
@@ -41,17 +42,17 @@ Helping you handle graphs/words/documents:
 
 Miscellaneous:
 --------------
- - [ftab](https://github.com/c-blake/ftab) - Native Nim File-Based Hash Table
+ - [ftab](https://github.com/c-blake/ftab) - Native File-Based Hash Table
  library like DBM; SQLite can be overkill/slow
  - [kslog](https://github.com/c-blake/kslog) - Linux specific replacement for
- syslogd-ng in like 132 lines of Nim code
+ syslogd-ng in like 132 lines
  - [nimp](https://github.com/c-blake/nimp) - a Nim package manager I use (but
- doubt anyone else will) in about 300 self-contained lines of Nim code
+ doubt anyone else will) in about 320 self-contained lines
 
 An experiment:
 --------------
  - [nimsearch](https://github.com/c-blake/nimsearch) - Try to explain some
- elementary ideas of search engine impl via successive diffs / patches in Nim
+ elementary ideas of search engine impl via successive diffs / patches
 
 Some C packages:
 ----------------
