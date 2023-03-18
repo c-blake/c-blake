@@ -7,14 +7,14 @@ Some driving libraries & tools:
  interface utility modules to have no dependencies
  - [nio](https://github.com/c-blake/nio) - Low Overhead Numerical/Native IO lib
  & tools organized around the idea of compact file extensions as schemas
- - [adix](https://github.com/c-blake/adix) - A Data structures for Indexing Lib
+ - [adix](https://github.com/c-blake/adix) - A Data structures for Indexing lib
  - [bu](https://github.com/c-blake/bu) - Over 50 (mostly cligen) CLI utilities
  covering Space Management, File Typology & Times, Benchmarking, Pipeline/Data
  Formatting/Calculation, Sys Admin, Tty Handling, Nim package release, Shell
  queuing & parallelization & various front ends for adix things & MORE
 
-Adding some color to your life:
--------------------------------
+Adding some more color to your life:
+------------------------------------
  - [lc](https://github.com/c-blake/lc) - A post-modern, "multi-dimensional",
  colorful, configurable, abbreviating, extensible ls/file lister
  - [procs](https://github.com/c-blake/procs) - Colorful-like `lc`-Unix process &
