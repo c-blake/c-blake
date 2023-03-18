@@ -8,6 +8,7 @@ Some driving libraries & tools:
  - [nio](https://github.com/c-blake/nio) - Low Overhead Numerical/Native IO lib
  & tools organized around the idea of compact file extensions as schemas
  - [adix](https://github.com/c-blake/adix) - A Data structures for Indexing lib
+ with sketches
  - [bu](https://github.com/c-blake/bu) - Over 50 (mostly cligen) CLI utilities
  covering Space Management, File Typology & Times, Benchmarking, Pipeline/Data
  Formatting/Calculation, Sys Admin, Tty Handling, Nim package release, Shell
