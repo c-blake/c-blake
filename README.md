@@ -5,14 +5,14 @@ Some driving libraries & tools:
  - [cligen](https://github.com/c-blake/cligen) - library to infer/generate
  command-line-interfaces / option / argument parsing; Also has some IO/system
  interface utility modules to have no dependencies
- - [nio](https://github.com/c-blake/nio) - Low Overhead Numerical/Native IO lib
- & tools organized around the idea of compact file extensions as schemas
  - [adix](https://github.com/c-blake/adix) - A Data structures for Indexing lib
  with sketches
+ - [nio](https://github.com/c-blake/nio) - Low Overhead Numerical/Native IO lib
+ & tools organized around the idea of compact file extensions as schemas
  - [bu](https://github.com/c-blake/bu) - Over 50 (mostly cligen) CLI utilities
- covering Space Management, File Typology & Times, Benchmarking, Pipeline/Data
- Formatting/Calculation, Sys Admin, Tty Handling, Nim package release, Shell
- queuing & parallelization & various front ends for adix things & MORE
+ covering space management, file typology & times, benchmarking, pipeline/data
+ formatting/calculation, sysadmin, tty tools, Nim package release, parallel &
+ queuing shell tools, various front ends for adix things, random sampling & MORE
 
 Adding some more color to your life:
 ------------------------------------
@@ -43,12 +43,12 @@ Helping you handle graphs/words/documents:
 
 Miscellaneous:
 --------------
- - [ftab](https://github.com/c-blake/ftab) - Native File-Based Hash Table
- library like DBM; SQLite can be overkill/slow
  - [kslog](https://github.com/c-blake/kslog) - Linux specific replacement for
  syslogd-ng in like 132 lines
  - [nimp](https://github.com/c-blake/nimp) - a Nim package manager I use (but
  doubt anyone else will) in about 320 self-contained lines
+ - [ftab](https://github.com/c-blake/ftab) - Native File-Based Hash Table
+ library like DBM; SQLite can be overkill/slow
 
 An experiment:
 --------------
