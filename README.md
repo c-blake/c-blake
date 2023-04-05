@@ -43,10 +43,12 @@ Helping you handle graphs/words/documents:
 
 Miscellaneous:
 --------------
- - [kslog](https://github.com/c-blake/kslog) - Linux specific replacement for
- syslogd-ng in like 132 lines
+ - [kslog](https://github.com/c-blake/kslog) - Lightweight Linux specific replacement for
+ syslogd-ng in ~130 lines
+ - [cron](https://github.com/c-blake/cron) - Very lightweight replacement for
+ crond/tab in ~60 lines of Nim
  - [nimp](https://github.com/c-blake/nimp) - a Nim package manager I use (but
- doubt anyone else will) in about 320 self-contained lines
+ doubt anyone else will) in ~320 self-contained lines
  - [ftab](https://github.com/c-blake/ftab) - Native File-Based Hash Table
  library like DBM; SQLite can be overkill/slow
 
